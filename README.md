@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fábio Santos</h1>
 <h3 align="center">A passionate data analytics from Brazil</h3>
 
-- 🌱 I’m currently learning **SQL and Pynthon**
+- 👨‍💻 I am a Business Intelligence professional with a proven record of transforming complex data into actionable insights. With extensive hands-on experience in developing interactive dashboards and managing key performance indicators, I excel at turning raw information into clear, strategic narratives that empower decision-makers.
 
 - 📫 How to reach me **f.desousa.dossantos@gmail.com**
 
